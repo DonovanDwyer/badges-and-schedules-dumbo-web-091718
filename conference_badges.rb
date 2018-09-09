@@ -11,5 +11,6 @@ end
 
 def assign_rooms(arr)
   assignments = []
-  arr.each_with_index 
+  arr.each_with_index do |name, room|
+    
     
