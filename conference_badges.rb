@@ -18,5 +18,3 @@ def assign_rooms(arr)
   return assignments
 end
 
-def printer
-  
