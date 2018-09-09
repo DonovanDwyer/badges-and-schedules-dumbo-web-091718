@@ -10,6 +10,6 @@ def batch_badge_creator(arr)
 end
 
 def assign_rooms(arr)
-  rooms = (1..7).to_a
-  
+  assignments = []
+  arr.each_with_index 
     
