@@ -1,5 +1,7 @@
 # Write your code here.
-arr = ["what", "are", "you", 2, 3, 4]
-arr.each do |x|
-  puts x
+def badge_maker(name)
+  puts "Hello, my name is #{name}"
 end
+
+def batch_badge_creator(arr)
+  
