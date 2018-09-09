@@ -20,6 +20,10 @@ def assign_rooms(arr)
 end
 
 def printer
-  batch_badge_creator.each {|i| puts i}
-  assign_rooms.each {|x| puts x}
+  batch_badge_creator.each do |i|
+    puts i
+  end
+  assign_rooms.each do |x| 
+    puts x
+  end
 end
