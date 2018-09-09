@@ -17,4 +17,5 @@ def assign_rooms(arr)
   end
   return assignments
 end
-    
+
+assign rooms(["Smith", "Sam", "Sally"])
