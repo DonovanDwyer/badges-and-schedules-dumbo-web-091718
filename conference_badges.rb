@@ -9,3 +9,7 @@ def batch_badge_creator(arr)
   end
 end
 
+def assign_rooms(arr)
+  rooms = (1..7).to_a
+  arr.each do |x|
+    
